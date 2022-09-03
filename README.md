@@ -5,7 +5,7 @@ Since then, I was constantly interested in coding but that interest easily went 
 
 # So, where am I at now 👀?
 I regained my passion of being a programmer once again after the military service :kr:.
-Recently, I completed a boot camp with a couple of projects and just getting into the journey as a software developer. To all developers, please be my guest 🤗!
+Recently, I completed a boot camp with a couple of projects and just getting into the journey as a software developer. To all developers, please be my guest 🤗
 
 # Skills I've used in my projects 🚀
 - Front-end: React.js, Javascript, TailwindCss
