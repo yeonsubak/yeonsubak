@@ -8,6 +8,6 @@ I regained my passion of being a programmer once again after the military servic
 Recently, I completed a boot camp with a couple of projects and just getting into the journey as a software developer. To all developers, please be my guest 🤗!
 
 # Skills I've used in my projects 🚀
-1. Front-end: React.js, Javascript, TailwindCss
-2. Back-end: Spring Framework(Boot & MVC), MySQL, AWS EC2 & RDS, Nginx
-3. CI/CD: Jenkins
+- Front-end: React.js, Javascript, TailwindCss
+- Back-end: Spring Framework(Boot & MVC), MySQL, AWS EC2 & RDS, Nginx
+- CI/CD: Jenkins
