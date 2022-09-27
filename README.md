@@ -5,6 +5,7 @@ The earliest time I dreamt of being a programmer—hacker, precisely—was when 
 I regained my passion for being a programmer once again after the military service 🇰🇷. Recently, I completed a boot camp with a couple of projects and just getting into the journey as a software developer. To all developers, please be my guest 🤗
 
 # Skills I've used in my projects 🚀
-- Front-end: React.js, Javascript, TailwindCSS
-- Back-end: Spring Framework(Boot & MVC), MySQL, AWS EC2 & RDS, Nginx
-- CI/CD: Jenkins
+- Front-end: Next.js, React.js, Javascript, TailwindCSS
+- Back-end: Spring Framework (Boot & MVC), Strapi, MySQL
+- Dev-ops: AWS(EC2, Lightsail, RDS, S3), Jenkins, NGINX
+- Design Tools: Figma
